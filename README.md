@@ -2,7 +2,7 @@
 
 An interactive Augmented Reality (AR) application built with Unity and Google ARCore that brings a virtual character into the real world. Users can detect a real-world floor, place a 3D character, and control its actions through an interactive interface powered by a state machine.
 
-## 🎥 Demo Video
+##  Demo Video
 
 <!-- Add your demo video link below -->
 
@@ -21,7 +21,7 @@ An interactive Augmented Reality (AR) application built with Unity and Google AR
 - **Multiple Character Actions:** Switch between sitting, standing, dancing, walking, and fighting animations.
 - **Real-Time Interaction:** Change the character's behavior directly within the AR environment.
 
-## 🎮 Character State Machine
+##  Character State Machine
 
 The application uses a state machine to manage character animations and transitions.
 
