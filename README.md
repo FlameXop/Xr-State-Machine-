@@ -70,7 +70,7 @@ Users can control the character using the on-screen interface after placing it i
 1. Clone this repository:
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/FlameXop/Xr-State-Machine-
    ```
 
 2. Open Unity Hub.
@@ -80,7 +80,7 @@ Users can control the character using the on-screen interface after placing it i
 6. Select Android as the target platform and build the application.
 7. Install and run the application on a compatible Android device.
 
-## 📱 How to Use
+##  How to Use
 
 1. Launch the application on your ARCore-compatible Android device.
 2. Move the device around to scan the environment and allow ARCore to detect a floor or other horizontal surface.
